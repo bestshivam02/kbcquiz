@@ -1,1 +1,0 @@
-web: gunicorn kbcquiz.wsgi --log-file -
